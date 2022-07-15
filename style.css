@@ -1,0 +1,171 @@
+body {
+              font-family: 'Merriweather', serif;
+}
+.image-width{
+              width:100%;
+              height: auto;
+}
+h1 {
+              font-size: 60px;
+              color: orange;
+}
+h4{
+              color:white;
+}
+
+.text-block{
+              position:absolute;
+              left:20%;
+              top:30%
+}
+.link-button{
+              position:absolute;
+              top: 70%;
+              left:30%;
+              border: 10px solid orangered;
+              background-color: orangered;
+              color:black;
+              font: weight 700px;
+              border-radius: 5px;
+              text-decoration: none;
+}
+.container{
+              display: flex;
+              justify-content: space-evenly;
+}
+#heading{
+              text-align: center;
+              font-size: 50px;
+              padding-top: 2%;
+}    
+#count{
+              color: black;
+              padding-left: 20%;
+              padding-right: 20%;
+}
+.box{
+          width:80px;
+          height: 40px;
+          margin: 20px;
+          background-color:#f9f5ef;
+          border-radius: 5px;
+          padding:20px; 
+}
+#color{
+              border:2px solid orange;
+}
+p{
+              margin-left: 30px;
+}
+.in-word{
+              color: orange;
+              padding-left: 40%;
+              padding-right: 20%;
+}
+.line{
+              width: 50%;
+}
+.link-button-2{
+              position:absolute;
+              left:45%;
+              border: 10px solid orangered;
+              background-color: orangered;
+              color:black;
+              font: weight 700px;
+              border-radius: 5px;
+
+}
+#donate-plan{
+              font-size: 40px;
+              padding-left: 35%;
+              margin-top: 10%;
+}
+#category{
+              text-align: center;
+              color: black;
+}
+.flexible-container{
+              display:flex;
+              justify-content: space-evenly;
+              margin-bottom: 10%;
+}
+.donation-container{
+              width: 40%;
+              padding:30px;
+              margin: 30px;
+}
+
+#food{
+              background-color:burlywood;
+              background-image:url(icon/food.png);
+              background-repeat:no-repeat;
+}
+#shelter{
+              background-image:url(icon/shelter.png);
+              background-repeat: no-repeat;
+              background-color: #a38b67;
+
+}
+#education{
+              background-image: url(icon/Frame-1.png);
+              background-repeat: no-repeat;
+              background-color: rgb(113, 126, 137);
+}
+.mid-container{
+              display:flex;
+              height: auto;
+              margin-bottom: 20%;
+}
+.image-sylhet{
+              width: 60%;
+              padding-left: 15%;
+
+}
+.extra-header{ 
+      color: black;
+      font-size: 50px;
+      text-align:left;
+}
+.link-button3{
+              position:absolute;
+              left:70%;
+              border: 10px solid orangered;
+              background-color: orangered;
+              color:whitesmoke;
+              font: weight 700px;
+              border-radius: 5px;
+              text-decoration: none;
+}
+.update{
+              text-align: center; 
+              font-size: 40px;  
+              height: 90%;
+               
+}
+.new-text{
+              text-align: center;
+}
+.blogs{
+              margin-left: 20%; 
+              margin-right: 20%; 
+              border: 10px solid blanchedalmond;
+              background-color: blanchedalmond; 
+              padding-left: 20%;  
+              padding-top: 5%;
+              padding-bottom: 5%;
+}
+#button-subscribe{
+              color: white;
+              background-color: orangered;
+              
+}
+.footer-added{
+              text-align: center;
+              background-color: black;
+              color: white;
+              font-style: italic;
+              margin-top: 5%;
+              padding-top: 10px;
+              padding-bottom: 10PX;
+}
+              
